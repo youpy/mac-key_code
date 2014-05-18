@@ -9,7 +9,7 @@ module Mac
     end
 
     def printable?
-      @char =~ /^[a-zA-Z0-9.\*\+\/\-=\\\[\];,~` \t\n\r]/
+      @char =~ /^[[:print:]\s]+/
     end
 
     def to_s
