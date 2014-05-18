@@ -5,7 +5,7 @@ include Mac
 # TODO: support key lauouts other than QWERTY
 
 describe KeyCode do
-  describe '.key_code_to_char' do
+  describe '.new' do
     subject do
       KeyCode.new(key_code)
     end
