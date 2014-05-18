@@ -4,6 +4,8 @@ require 'json'
 
 include Mac
 
+# TODO: support key lauouts other than QWERTY
+
 describe KeyCode do
   describe '.key_code_to_char' do
     subject do
