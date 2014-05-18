@@ -1,6 +1,6 @@
 # mac-key_code
 
-A library for key code for mac.
+A key code library for mac.
 It supports any keyboard layouts such as QWERTY, Dvorak etc.
 
 It is based on http://stackoverflow.com/q/1918841
