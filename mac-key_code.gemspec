@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Mac::KeyCode::VERSION
   spec.authors       = ["youpy"]
   spec.email         = ["youpy@buycheapviagraonlinenow.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{A key code library for mac}
+  spec.description   = %q{A key code library for mac. It supports any keyboard layouts such as QWERTY, Dvorak etc.}
+  spec.homepage      = "https://github.com/youpy/mac-key_code"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
