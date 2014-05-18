@@ -3,7 +3,7 @@
 A key code library for mac.
 It supports any keyboard layouts such as QWERTY, Dvorak etc.
 
-It is based on http://stackoverflow.com/q/1918841
+It is based on http://stackoverflow.com/a/1971027
 
 ## Installation
 

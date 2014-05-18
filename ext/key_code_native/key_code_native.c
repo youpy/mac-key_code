@@ -2,7 +2,7 @@
 #include <Carbon/Carbon.h> /* For kVK_ constants, and TIS functions. */
 #include <ruby.h>
 
-/* based on http://stackoverflow.com/q/1918841 */
+/* based on http://stackoverflow.com/a/1971027 */
 
 VALUE CFString2RString(CFStringRef str) {
   int stringSize;
